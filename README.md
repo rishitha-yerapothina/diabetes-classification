@@ -1,6 +1,7 @@
 # Diabetes Classification App
 
 A Machine Learning web application that predicts whether a person is diabetic or non-diabetic based on medical input features.
+Live demo:https://diabetes-classification-gn7t6l7jud5ajmbcxw4qcx.streamlit.app
 
 ## Project Overview
 
